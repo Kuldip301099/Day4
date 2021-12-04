@@ -1,0 +1,54 @@
+         div{
+                background-color: rgba(67, 87, 124, 0.5)
+            } 
+        #heading-1 {
+            font-size: 50px;
+            color:burlywood;
+        }
+
+        body {
+            background-color: rgba(98, 251, 76, 0.5)
+        }
+        #part-1{
+            background-color:green;
+        }
+        /* #part-2{
+            background-color:blue;
+        } */
+        #heading-2{
+            color:chartreuse;
+            font-size: 50px;
+        }
+        #heading-1,#heading-2{
+            font-family: italic,Arial, Helvetica, sans-serif;
+        }
+        #heading-3{
+            color:red;
+            font-size: 50px;
+            text-align: center;
+            width:400px;
+            background-color:blue;
+        }
+        #heading-4{
+            color:cyan;
+            font-style: italic;
+            font-size: 50px;
+        }
+        .highlight{
+            color:red;
+            background-color:black;
+        }
+        .web-1{
+            background-color:white;
+    
+        }
+        .web-2{
+            font-size:50px;
+        }
+        #java{
+            font-size: 20px; 
+        }
+        #c11{
+            font-style: italic;
+        }
+        
